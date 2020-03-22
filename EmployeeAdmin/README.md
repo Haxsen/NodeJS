@@ -1,5 +1,6 @@
 # Employee Admin
-Install the dependencies first:
+*Install the dependencies first:
 `nvm install`
-Run:
+
+*Run:
 `node app`
