@@ -3,4 +3,4 @@
 `npm install`
 
 * Run:
-`node app`
+`node server`
